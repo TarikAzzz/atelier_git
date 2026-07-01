@@ -1,4 +1,5 @@
 # Atelier Git
 Premier projet suivi avec Git.
 
-git statu
+## Objectif
+Comprendre le workflow Git de base.
